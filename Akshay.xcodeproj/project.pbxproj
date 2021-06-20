@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		18F109C8267F0ED0009E180B /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18F109C8267F0ED0009E180B /* Akshay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Akshay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F109CB267F0ED0009E180B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18F109CD267F0ED0009E180B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		18F109CF267F0ED0009E180B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		18F109BF267F0ED0009E180B = {
 			isa = PBXGroup;
 			children = (
-				18F109CA267F0ED0009E180B /* I am Rich */,
+				18F109CA267F0ED0009E180B /* Akshay */,
 				18F109C9267F0ED0009E180B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		18F109C9267F0ED0009E180B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				18F109C8267F0ED0009E180B /* I am Rich.app */,
+				18F109C8267F0ED0009E180B /* Akshay.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		18F109CA267F0ED0009E180B /* I am Rich */ = {
+		18F109CA267F0ED0009E180B /* Akshay */ = {
 			isa = PBXGroup;
 			children = (
 				18F109CB267F0ED0009E180B /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				18F109D6267F0ED2009E180B /* LaunchScreen.storyboard */,
 				18F109D9267F0ED2009E180B /* Info.plist */,
 			);
-			path = "I am Rich";
+			path = Akshay;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		18F109C7267F0ED0009E180B /* I am Rich */ = {
+		18F109C7267F0ED0009E180B /* Akshay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 18F109DC267F0ED2009E180B /* Build configuration list for PBXNativeTarget "I am Rich" */;
+			buildConfigurationList = 18F109DC267F0ED2009E180B /* Build configuration list for PBXNativeTarget "Akshay" */;
 			buildPhases = (
 				18F109C4267F0ED0009E180B /* Sources */,
 				18F109C5267F0ED0009E180B /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "I am Rich";
+			name = Akshay;
 			productName = "I am Rich";
-			productReference = 18F109C8267F0ED0009E180B /* I am Rich.app */;
+			productReference = 18F109C8267F0ED0009E180B /* Akshay.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 18F109C3267F0ED0009E180B /* Build configuration list for PBXProject "I am Rich" */;
+			buildConfigurationList = 18F109C3267F0ED0009E180B /* Build configuration list for PBXProject "Akshay" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				18F109C7267F0ED0009E180B /* I am Rich */,
+				18F109C7267F0ED0009E180B /* Akshay */,
 			);
 		};
 /* End PBXProject section */
@@ -287,7 +287,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7G7F93F5H9;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,7 +307,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7G7F93F5H9;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -320,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		18F109C3267F0ED0009E180B /* Build configuration list for PBXProject "I am Rich" */ = {
+		18F109C3267F0ED0009E180B /* Build configuration list for PBXProject "Akshay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18F109DA267F0ED2009E180B /* Debug */,
@@ -329,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		18F109DC267F0ED2009E180B /* Build configuration list for PBXNativeTarget "I am Rich" */ = {
+		18F109DC267F0ED2009E180B /* Build configuration list for PBXNativeTarget "Akshay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18F109DD267F0ED2009E180B /* Debug */,
